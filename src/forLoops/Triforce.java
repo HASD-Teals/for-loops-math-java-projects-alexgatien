@@ -23,7 +23,7 @@ public class Triforce {
 				System.out.print("#");
 			}
 			
-				for (int r = h+h; r > 0; r--) {
+				for (int r = h+h-1; r > 0; r--) {
 					System.out.print(" ");
 				}
 				
